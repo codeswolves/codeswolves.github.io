@@ -1,2 +1,2 @@
-# codewolf.github.io
+# codeswolves.github.io
 Blog of code wolf.
